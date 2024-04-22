@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Journal - Australian native garden journey"
+  navbar:
+    right:
+      - text: "About"
+        href: about.qmd
+      - icon: github
+        href: https://github.com/planet-visitor
+  page-footer:
+    left: "© Copyright planet-visitor. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    highlight-style: breeze
+
+

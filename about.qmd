@@ -1,0 +1,25 @@
+---
+title: "Journal - Australian native garden journey"
+image: profile_01.png
+about:
+  template: jolla
+  image-width: 40em
+  image-shape: rectangle
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/someone
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/planet-visitor
+
+---
+
+This is a journal kept while converting a garden to host australian native plants.
+
+## Source
+
+This blog site is built from [this github repository](https://github.com/planet-visitor/aus-natives/) with [Quarto](https://quarto.org/quarto.png)
