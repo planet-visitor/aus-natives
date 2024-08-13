@@ -1,0 +1,23 @@
+---
+title: "Hibbertia empetrifolia"
+description: "Hibbertia empetrifolia, first flowering"
+author:
+  - name: planet-visitor
+    url: {}
+date: "2024-08-14"
+categories: ["hibbertia", "flower"]
+format: 
+  html:
+    toc: true
+engine: knitr
+draft: false
+image: 002.png
+---
+
+Burst of yellow a few days ago, surprised me as the buds seemed to open overnight. I tend not to value yellow as other colors, but this is growing on me.
+
+[Hibbertia empetrifolia](https://plantdatabase.nativeplantscbr.com.au/plants/hibbertia-empetrifolia/).
+
+![Opening bud](./002.png)
+
+![Overall form](./003.png)

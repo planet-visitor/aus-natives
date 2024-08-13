@@ -1,0 +1,31 @@
+---
+title: "Eremophila racemosa 'fairy floss'"
+description: "Eremophila racemosa 'fairy floss' first flowering"
+author:
+  - name: planet-visitor
+    url: {}
+date: "2024-07-20"
+categories: ["eremophila", "flower"]
+format: 
+  html:
+    toc: true
+engine: knitr
+draft: false
+image: 004.png
+---
+
+It is a cold, rainy and very windy day, although not devoid of charm with episodes of bright sun between waves of clouds.
+
+I bought two varieties of [eremophilas](https://resources.austplants.com.au/stories/taking-a-chance-of-eremophilas/) from tubestocks from my trusted [Cool Country Natives](https://www.coolcountrynatives.com.au/) nursery last February.
+
+Despite my sometimes less than adequate choices for repotting and potting mixes, it seems I've done OK for these at least, they've been growing happily, and one of them has started its display, bringing welcome colors to this wintry July.
+
+A couple of shots in last Tursday evening light:
+
+![Promising flower buds](./001.png)
+
+![Flossy indeed...](./004.png)
+
+![Tag display](./002.png)
+
+![Care information](./003.png)
